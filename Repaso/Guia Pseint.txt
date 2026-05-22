@@ -1,0 +1,64 @@
+Curso de Pseint (Jotikeng)
+
+Hay dos tipos de modos: el estricto y el flexible (Configurar - opciones de lenguaje - estricto). 
+El estricto nos ayuda a corregir errores.
+La linea de codigo se bifurca en sintaxis y en diagrama de flujo.
+
+El nombre del archivo (titulo) no debe empezar con un número y no debe haber espacios vacíos
+(colocar "_").
+ 
+Comentarios: son las descripciones y explicaciones de nuestro codigo de programación. Son importantes
+para entender un código y para que entiendan el nuestro. 
+
+Definir: ubicar el tipo de un valor. 
+		a) Booleano o lógico: V/F
+		b) Real: números reales
+		c) Entero: números enteros
+		d) Caracter: signo linguistico (letras/los números "como letras")
+
+Escribir: es la salida de expresiones en el programa. Sale en pantalla. 
+Escribir sin saltar: sigue en la misma línea a la hora de escribir ---------------.
+
+Leer: operación que recoge el valor que se introduce en el programa dentro de una variable.
+
+Variable: es la incógnita que alberga un valor. 
+
+Asignar: es darle un valor específico a una variable. 
+
+
+Operadores
+
+Tipos de operadores
+	a) Algebraicos: suma, resta, multiplicación, división, potenciación, resto/módulo (división)
+	b) Lógicos: y, o, no
+	c) Relacionales: mayor, menor, igual, mayor igual, menor igual, diferente
+	
+COMANDOS
+	a) Mientras= Primero evalua la condicion - condicion verdadera=continua en el ciclo - 
+		     condicion falsa= no continua en el ciclo
+	b) Repetir= permite ingresar al menos una vez sin evaluar - condicion verdadera= no continua en el ciclo -
+		    condicion falsa= continua en el ciclo (Valida datos)
+	c) Para= necesita un intervalo con comienzo y final, y la constante lleva del comienzo al final. 
+
+Curso Pseint (Techno Hobbies)
+Arreglos
+
+	Son espacios o cajones que se usan para almacenar un conjunto de datos
+	Caracteristicas
+	- Nos permiten almacenar grandes cantidades de informaciones
+	- Condiciones: lenguaje estaticamente tipado
+			Solo pueden almacenar un tipo de dato
+			Tamño fijo
+			Lenguaje dinamicamente tipado
+			Las reglas se rompen
+
+			En Pseint: -----------> En flexible inicializa en 1 no en 0
+	Convertir la variable a un arreglo
+    dimension nombre_del_arreglo[n_de_datos]
+
+
+
+
+
+
+
